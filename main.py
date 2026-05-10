@@ -11,7 +11,7 @@ def load_model_safe(name):
     path = os.path.join("models", name)
     if os.path.exists(path):
         try:
-            return tf.keras.models.load_model(path)
+            return tf.keras.models.load_model(path, compile=False)
         except Exception as e:
             print(f"Error loading {name}: {e}")
     return None

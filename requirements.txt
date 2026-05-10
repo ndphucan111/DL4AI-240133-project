@@ -6,5 +6,5 @@ fastapi
 uvicorn
 streamlit-option-menu
 plotly
-tensorflow-cpu
+tensorflow-cpu==2.21.0
 pydantic
