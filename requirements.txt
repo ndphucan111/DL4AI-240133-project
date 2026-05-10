@@ -1,7 +1,6 @@
 streamlit
 pandas
 numpy
-tensorflow
 matplotlib
 fastapi 
 uvicorn
