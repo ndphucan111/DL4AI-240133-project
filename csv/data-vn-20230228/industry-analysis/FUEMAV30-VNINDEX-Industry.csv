@@ -1,2 +1,3 @@
-﻿,ticker,marcap,price,numberOfDays,priceToEarning,peg,priceToBook,valueBeforeEbitda,dividend,roe,roa,ebitOnInterest,bookValuePerShare,interestMargin,badDebtPercentage,currentPayment,quickPayment,grossProfitMargin,operatingProfitMargin,postTaxMargin,debtOnEquity,debtOnEbitda,income5year,sale5year,income1quarter,sale1quarter,nextIncome,nextSale,rsi,rs
-0,FUEMAV30,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:debc9d07fb5d3e048575b559676767b7e3c4f6c16f024561d82692a31974711c
+size 394

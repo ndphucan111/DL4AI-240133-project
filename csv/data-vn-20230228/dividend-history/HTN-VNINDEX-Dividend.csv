@@ -1,8 +1,3 @@
-﻿,exerciseDate,cashYear,cashDividendPercentage,issueMethod
-0,27/10/22,2021,0.12,cash
-1,06/12/21,2021,0.8,share
-2,13/11/20,2019,0.18,cash
-3,09/10/19,2019,0.15,share
-4,07/06/19,2018,0.15,cash
-5,30/11/18,2017,0.15,cash
-6,30/11/18,2018,0.15,share
+version https://git-lfs.github.com/spec/v1
+oid sha256:b77570e2eb829a464f0b35d6e0f86d4e24ed0b14b32c9d2b8add1e73f954685e
+size 245

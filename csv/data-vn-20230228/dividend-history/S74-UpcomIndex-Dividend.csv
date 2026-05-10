@@ -1,9 +1,3 @@
-﻿,exerciseDate,cashYear,cashDividendPercentage,issueMethod
-0,14/06/16,2016,0.08,share
-1,30/03/15,2013,0.08,cash
-2,30/10/14,2011,0.15,cash
-3,30/10/14,2012,0.08,cash
-4,06/03/12,2010,0.05,cash
-5,01/03/11,2010,0.15,cash
-6,15/03/10,2009,0.03,cash
-7,30/11/09,2009,0.15,cash
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b92a4866e909760ed1f99832e8be2652c3bc9fc15ff07cc35802c0c4c60472e
+size 270

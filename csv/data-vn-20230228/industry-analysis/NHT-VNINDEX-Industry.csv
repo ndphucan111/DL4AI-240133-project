@@ -1,2 +1,3 @@
-﻿,ticker,marcap,price,numberOfDays,priceToEarning,peg,priceToBook,valueBeforeEbitda,dividend,roe,roa,ebitOnInterest,bookValuePerShare,interestMargin,badDebtPercentage,currentPayment,quickPayment,grossProfitMargin,operatingProfitMargin,postTaxMargin,debtOnEquity,debtOnEbitda,income5year,sale5year,income1quarter,sale1quarter,nextIncome,nextSale,rsi,rs
-0,NHT,348,14500,2,5.0,0.1,1.1,5.6,0.0,0.249,0.085,15.2,,,,1.1,0.5,0.281,,0.139,0.5,2.1,0.062,0.384,0.574,-0.229,0.309,0.33,59.4,50.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1de924e76ce3fa01e9e3b876a7ad678d9a61adce8f37ddd2ec19c51993f2ceb
+size 487
