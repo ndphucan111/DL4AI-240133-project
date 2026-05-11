@@ -101,8 +101,7 @@ pip install -r requirements.txt
 
 #### **1. Run Local Setup**
 
-* 
-**For backend (FastAPI):** Open Terminal and run: `python main.py` (The API service will default to running at: **http://localhost:8000**). 
+* **For backend (FastAPI):** Open Terminal and run: `python main.py` (The API service will default to running at: **http://localhost:8000**). 
 
 
 * **For frontend (Streamlit):** Open another Terminal and run: `streamlit run app.py` (The web interface will automatically open in the browser at: **http://localhost:8501**).
