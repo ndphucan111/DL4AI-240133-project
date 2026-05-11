@@ -1,11 +1,3 @@
----
-title: Stock Api Backend - AI-Powered Stock Prediction
-colorFrom: blue
-colorTo: green
-sdk: docker
-pinned: false
----
-
 ![Intro](name_image.png)
 
 ---
