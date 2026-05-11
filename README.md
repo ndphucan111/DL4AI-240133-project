@@ -133,4 +133,4 @@ chmod +x start.sh
 
 ## **5.3 System Diagram**
 
-![System Diagram](System Diagram.png)
+![System Diagram](System_Diagram.png)
