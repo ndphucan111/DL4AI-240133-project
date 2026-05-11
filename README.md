@@ -15,10 +15,17 @@ pinned: false
 * **Course:** CS313 - Deep Learning for Artificial Intelligence 
 
 
-* **Project:** Time-series data and application to stock markets 
+* **Project:** Time-series data and application to stock markets
+
+
+* **Link Github:** [https://github.com/ndphucan111/DL4AI-240133-project.git](https://github.com/ndphucan111/DL4AI-240133-project.git)
+
+
+* **Link drive for data, model and topic:** [https://drive.google.com/drive/folders/1NQZlISP_jKi_iTxYjUXdW3jx3GYlwC1L?usp=sharing](https://drive.google.com/drive/folders/1NQZlISP_jKi_iTxYjUXdW3jx3GYlwC1L?usp=sharing)
 
 
 * **Author:** **Nguyen Do Phuc An - 240133**
+
 
 ---
 
@@ -30,7 +37,6 @@ This project applies **Deep Learning (LSTM)** models to analyze stock market dat
 
 
 * The model automatically identifies **Buy and Sell points** based on the model's training results, probability, and expected profit threshold. Then, based on statistics, it suggests an **optimal investment portfolio** based on the risk-return ratio for different investor groups (i.e., using past results to provide an average, safe point for the present).
-
 
 
 Additionally, **AI-Powered Stock Prediction** is a web demo showing the results of training the model in use (**Run the demo on Hugging Face Space**).
@@ -127,6 +133,6 @@ chmod +x start.sh
 
 ## **5. Live Demo**
 
-🚀 **Live demo link for AI-Powered Stock Prediction:** [https://huggingface.co/spaces/ndphucan/stock-api-backend](https://huggingface.co/spaces/ndphucan/stock-api-backend)
+**Live demo link for AI-Powered Stock Prediction:** [https://huggingface.co/spaces/ndphucan/stock-api-backend](https://huggingface.co/spaces/ndphucan/stock-api-backend)
 
 ![Web Demo](web_demo.png)
