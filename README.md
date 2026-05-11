@@ -6,6 +6,8 @@ sdk: docker
 pinned: false
 ---
 
+![Intro](name_image.png)
+
 ---
 
 # **Final project - Spring 2026**
@@ -126,3 +128,5 @@ chmod +x start.sh
 ## **5. Live Demo**
 
 🚀 **Live demo link for AI-Powered Stock Prediction:** [https://huggingface.co/spaces/ndphucan/stock-api-backend](https://huggingface.co/spaces/ndphucan/stock-api-backend)
+
+![Web Demo](web_demo.png)
