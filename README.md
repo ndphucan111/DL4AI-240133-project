@@ -41,21 +41,13 @@ Additionally, **AI-Powered Stock Prediction** is a web demo showing the results 
 
 ## **2. Technology Stack**
 
-* 
-**Core AI:** Python, TensorFlow (LSTM), Scikit-learn, Pandas, Numpy 
+* **Core AI:** Python, TensorFlow (LSTM), Scikit-learn, Pandas, Numpy 
 
+* **Backend:** FastAPI (REST API Service) 
 
-* 
-**Backend:** FastAPI (REST API Service) 
+* **Frontend:** Streamlit 
 
-
-* 
-**Frontend:** Streamlit 
-
-
-* 
-**Deployment:** Docker, Hugging Face Spaces 
-
+* **Deployment:** Docker, Hugging Face Spaces 
 
 
 ---
