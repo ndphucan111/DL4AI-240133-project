@@ -123,8 +123,14 @@ chmod +x start.sh
 
 ---
 
-## **5. Live Demo**
+## **5.1 and 5.2 Live Demo**
 
 **Live demo link for AI-Powered Stock Prediction:** [https://huggingface.co/spaces/ndphucan/stock-api-backend](https://huggingface.co/spaces/ndphucan/stock-api-backend)
 
 ![Web Demo](web_demo.png)
+
+---
+
+## **5.3 System Diagram**
+
+![System Diagram](System Diagram.png)
