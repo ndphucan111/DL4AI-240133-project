@@ -6,8 +6,6 @@ sdk: docker
 pinned: false
 ---
 
-Đây là nội dung file **README.md** của bạn đã được định dạng bằng Markdown, thêm các mục chuyên nghiệp và in đậm các từ khóa quan trọng để tăng tính scannable (dễ đọc nhanh):
-
 ---
 
 # **Final project - Spring 2026**
