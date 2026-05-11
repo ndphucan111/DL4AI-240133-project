@@ -12,12 +12,10 @@ pinned: false
 
 # **Final project - Spring 2026**
 
-* 
-**Course:** CS313 - Deep Learning for Artificial Intelligence 
+* **Course:** CS313 - Deep Learning for Artificial Intelligence 
 
 
-* 
-**Project:** Time-series data and application to stock markets 
+* **Project:** Time-series data and application to stock markets 
 
 
 * **Author:** **Nguyen Do Phuc An - 240133**
@@ -58,26 +56,12 @@ Additionally, **AI-Powered Stock Prediction** is a web demo showing the results 
 * **`graph/`**: Graphs from the notebook.
 * **`models/`**: Trained models (**`.keras`**).
 * **`.gitattributes` & `.gitignore**`: Git configuration files.
-* 
-**`240133_Final_project_DL4AI.ipynb`**: Notebook containing the entire training process (**Tasks 1-4**).
-
-
-* 
-**`app.py`**: Web frontend using **Streamlit** code (**Task 5.2**).
-
-
-* 
-**`main.py`**: API (**Backend**) on **FastAPI**, used to load the model and handle forecasting requests (**Task 5.1**).
-
-
-* 
-**`Dockerfile` & `start.sh**`: Docker to package everything into a container, used to deploy to Hugging Face or other Cloud platforms.
-
-
+* **`240133_Final_project_DL4AI.ipynb`**: Notebook containing the entire training process (**Tasks 1-4**).
+* **`app.py`**: Web frontend using **Streamlit** code (**Task 5.2**).
+* **`main.py`**: API (**Backend**) on **FastAPI**, used to load the model and handle forecasting requests (**Task 5.1**).
+* **`Dockerfile` & `start.sh**`: Docker to package everything into a container, used to deploy to Hugging Face or other Cloud platforms.
 * **`requirements.txt`**: Libraries to download (**TensorFlow, FastAPI, Streamlit...**) to run the project.
-* 
-**`README.md`**: Overview, instructions for running and using the project. 
-
+* **`README.md`**: Overview, instructions for running and using the project. 
 
 
 ---
